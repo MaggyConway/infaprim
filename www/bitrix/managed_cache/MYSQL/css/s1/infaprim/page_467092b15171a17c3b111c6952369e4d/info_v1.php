@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/infaprim/components/bitrix/system.auth.form/login/style.css" => "1587060126424",); ?>

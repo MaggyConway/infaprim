@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/infaprim/components/bitrix/catalog.section.list/docs_list/style.css" => "15870601236236",); ?>

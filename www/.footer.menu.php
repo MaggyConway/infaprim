@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Адресная книга", 
+		"/adress-book/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Документы", 
+		"/docs/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/news/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О нас",
+ 		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Ispring", 
+		"https://infaprim.ispringonline.ru/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Omobus", 
+		"https://infaprim.omobus.net/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Sislink", 
+		"https://cislink.com/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Личный кабинет", 
+		"/profile/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Календарь", 
+		"/calendar/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),
+	/*	Array(
+		"Политика конфиденциальности", 
+		"/privacy/",
+ 		Array(), 
+		Array(), 
+		"" 
+	),*/
+);
+?>

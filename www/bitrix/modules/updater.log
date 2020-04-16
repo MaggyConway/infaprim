@@ -1,0 +1,12 @@
+2020-01-21 08:33:16 -  - exec CUpdateClient::GetUpdatesList
+2020-01-21 08:33:16 -  - exec CUpdateClient::CollectRequestData
+2020-01-21 08:33:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.0.0&VERSION=20.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=infaprim&CHHB=infaprim&CSAB=127.0.0.1&SUID=4e9c0e7af073d33a03eb148c3eba0b7f&CANGZIP=Y&CLIENT_PHPVER=7.3.9&stable=Y&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.0.0&bitm_b24connector=18.5.0&bitm_bitrixcloud=18.5.0&bitm_clouds=19.0.0&bitm_compression=19.0.0&bitm_fileman=18.5.500&bitm_highloadblock=19.0.0&bitm_iblock=18.6.1000&bitm_landing=19.0.175&bitm_messageservice=19.0.0&bitm_perfmon=18.5.0&bitm_rest=18.5.162&bitm_search=18.5.200&bitm_seo=19.0.800&bitm_socialservices=19.0.0&bitm_translate=18.0.100&bitm_ui=19.0.400&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2020-01-21 08:33:16 -  - exec CUpdateClient::GetHTTPPage
+2020-01-21 08:33:17 -  - TIME GetUpdatesList(request) 0.597 sec
+2020-01-21 08:33:17 -  - exec CUpdateClient::ParseServerData
+2020-01-21 09:36:06 -  - exec CUpdateClient::GetUpdatesList
+2020-01-21 09:36:06 -  - exec CUpdateClient::CollectRequestData
+2020-01-21 09:36:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=20.0.0&VERSION=20.0.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=infaprim&CHHB=infaprim&CSAB=127.0.0.1&SUID=4e9c0e7af073d33a03eb148c3eba0b7f&CANGZIP=Y&CLIENT_PHPVER=7.3.9&stable=Y&NGINX=Y&SMD=N&rerere=Y&bitm_main=20.0.0&bitm_b24connector=18.5.0&bitm_bitrixcloud=18.5.0&bitm_clouds=19.0.0&bitm_compression=19.0.0&bitm_fileman=18.5.500&bitm_highloadblock=19.0.0&bitm_iblock=18.6.1000&bitm_landing=19.0.175&bitm_messageservice=19.0.0&bitm_perfmon=18.5.0&bitm_rest=18.5.162&bitm_search=18.5.200&bitm_seo=19.0.800&bitm_socialservices=19.0.0&bitm_translate=18.0.100&bitm_ui=19.0.400&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-N
+2020-01-21 09:36:06 -  - exec CUpdateClient::GetHTTPPage
+2020-01-21 09:36:08 -  - TIME GetUpdatesList(request) 2.075 sec
+2020-01-21 09:36:08 -  - exec CUpdateClient::ParseServerData

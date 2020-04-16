@@ -1,0 +1,1 @@
+<?php $filesInfo = array("/local/templates/infaprim/components/bitrix/menu/footer_menu/script.js" => "1587060123407",); ?>
